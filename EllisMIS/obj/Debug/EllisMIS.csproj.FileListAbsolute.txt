@@ -1,0 +1,10 @@
+C:\_Rodrigo\Speech\Ellis\EllisMIS\bin\Debug\EllisMIS.dll
+C:\_Rodrigo\Speech\Ellis\EllisMIS\bin\Debug\EllisMIS.pdb
+C:\_Rodrigo\Speech\Ellis\EllisMIS\obj\Debug\EllisMIS.csprojResolveAssemblyReference.cache
+C:\_Rodrigo\Speech\Ellis\EllisMIS\obj\Debug\EllisMIS.dll
+C:\_Rodrigo\Speech\Ellis\EllisMIS\obj\Debug\EllisMIS.pdb
+C:\_Rodrigo\Acoustic FingerPrint\Speech\EllisMIS\bin\Debug\EllisMIS.dll
+C:\_Rodrigo\Acoustic FingerPrint\Speech\EllisMIS\bin\Debug\EllisMIS.pdb
+C:\_Rodrigo\Acoustic FingerPrint\Speech\EllisMIS\obj\Debug\EllisMIS.csprojResolveAssemblyReference.cache
+C:\_Rodrigo\Acoustic FingerPrint\Speech\EllisMIS\obj\Debug\EllisMIS.dll
+C:\_Rodrigo\Acoustic FingerPrint\Speech\EllisMIS\obj\Debug\EllisMIS.pdb

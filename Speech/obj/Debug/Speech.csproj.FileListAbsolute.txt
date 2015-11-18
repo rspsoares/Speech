@@ -1,0 +1,15 @@
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\Speech.exe
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\Speech.exe.config
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\Speech.exe.manifest
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\Speech.application
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\EllisMIS.dll
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\EllisMIS.pdb
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.Form1.resources
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.Properties.Resources.resources
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.csproj.GenerateResource.Cache
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.exe.manifest
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.application
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.exe
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\obj\Debug\Speech.pdb
+C:\_Rodrigo\Acoustic FingerPrint\Speech\Speech\bin\Debug\Speech.pdb
